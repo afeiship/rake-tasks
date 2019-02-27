@@ -1,0 +1,25 @@
+{
+  "name": "rake-tasks",
+  "version": "1.0.0",
+  "description": "My tasks based on rake.",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/rake-tasks.git"
+  },
+  "keywords": [
+    "rake",
+    "task",
+    "ruby",
+    "afei"
+  ],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/rake-tasks/issues"
+  },
+  "homepage": "https://github.com/afeiship/rake-tasks#readme"
+}
